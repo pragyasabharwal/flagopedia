@@ -1,0 +1,36 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap");
+
+.App {
+  font-family: "Montserrat", sans-serif;
+  text-align: center;
+}
+input {
+  width: 50%;
+  margin-top: 4em;
+  padding: 1em;
+  margin-bottom: 2em;
+  border-radius: 0.3em;
+  box-shadow: 5px 5px 5px rgb(24, 23, 23);
+  /* font-size: 1em; */
+}
+body {
+  margin: 0rem;
+  color: white;
+  background: radial-gradient(circle at left, #4553a1d7, #023799f3);
+}
+
+nav {
+  background: radial-gradient(circle at left, #ff9400, #ff6600);
+  padding: 0.1rem;
+  text-shadow: 2px 2px rgb(119, 113, 113);
+  font-size: 1.5em;
+}
+span {
+  margin-left: auto;
+  margin-right: auto;
+  cursor: pointer;
+  font-size: 2.5em;
+  padding: 20px;
+
+  /* margin: 0.05em; */
+}
